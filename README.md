@@ -1,3 +1,3 @@
-# pod-template
+# Viper pod-template
 
-pod lib create MyModule --template-url=
+pod lib create DemoModule --template-url=https://github.com/Jeffersons/viper-pod-template
